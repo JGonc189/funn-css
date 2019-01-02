@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+nav {
+  background-color: #ccc;
+  height: 75px;
+  width: 100%;
+  font-size: 36px;
+  padding-top: 25px;
+  border-bottom: 4px solid purple;
+}
