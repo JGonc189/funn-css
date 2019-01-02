@@ -21,3 +21,16 @@ nav {
   padding-top: 25px;
   border-bottom: 4px solid purple;
 }
+
+footer {
+  background-color: #ccc;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 45px;
+  width: 100%;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 10px;
+  border-top: 4px solid purple;
+}
