@@ -22,6 +22,12 @@ nav {
   border-bottom: 4px solid purple;
 }
 
+aside {
+  float: left;
+  border-right: 4px solid purple;
+  height: 100vh;
+}
+
 footer {
   background-color: #ccc;
   position: fixed;
